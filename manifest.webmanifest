@@ -1,0 +1,17 @@
+{
+  "name": "My Google",
+  "short_name": "My Google",
+  "description": "Browse multiple Google Drive accounts in a file manager.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d2137",
+  "theme_color": "#0078d4",
+  "icons": [
+    {
+      "src": "assets/default-avatar.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
